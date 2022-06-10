@@ -7,6 +7,7 @@ import useStyles from './styles';
 
 const Posts = ({ setCurrentId }) => {
   const posts = useSelector((state) => state.posts);
+  //reducers/posts.js에 있는 posts(들어있는 값들)를 들고온다.
   const classes = useStyles();
 
   return (
