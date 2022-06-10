@@ -9,3 +9,6 @@ By the end of this video, you will have a strong understanding of how the MERN S
 Setup:
 
 - run `npm i && npm start` for both client and server side to start the app
+
+
+++싫어요 기능 추가, 필수 작성 기능 추가,삭제 확인 버튼 추가
